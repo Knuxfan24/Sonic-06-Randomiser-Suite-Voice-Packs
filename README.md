@@ -1,0 +1,1 @@
+This repository contains my personal voice packs for use with the [Sonic '06 Randomiser Suite](https://github.com/Knuxfan24/Sonic-06-Randomiser-Suite).
